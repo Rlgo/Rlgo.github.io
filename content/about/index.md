@@ -4,6 +4,9 @@ eleventyNavigation:
   key: About Me
   order: 3
 ---
+
 # About Me
 
-I am a person that writes stuff.
+Programs are meant to be read by humans and only incidentally for computers to execute.
+
+[github.com/rlgo](https://github.com/rlgo)
